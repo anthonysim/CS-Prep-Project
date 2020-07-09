@@ -1,13 +1,3 @@
-==============================================================
-                  CS PREP GAME: RICOTHZEE
-Authors: Casey Escovedo, Christy Gomez, & Anthony Sim 
-==============================================================
-
-
-==============================================================
-                    Rules / Explanation
-============================================================== 
-
 Let's play RICOTHZEE! (2-Player Game) Place a bet and compete with another player. Roll the 5 dice 3 times! You'll get points:
 
       2 of-a-Kind (2 points), + 5% back!
